@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Silver 👋</h1>
+<h1 align="center">Hey, I'm Silver </h1>
 
 ---
 
@@ -29,9 +29,6 @@
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=StealthSilver&theme=radical" alt="GitHub Streak" width="450"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=StealthSilver&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
     </td>
   </tr>
 </table>

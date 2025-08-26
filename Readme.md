@@ -1,43 +1,12 @@
 <h1 align="center">Hey, I'm Silver 👋</h1>
-<h3 align="center">A developer who codes with passion, creates solutions! 💻🔥</h3>
-
-<p align ="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20Views&color=brightgreen&style=for-the-badge" 
-    alt="silver" 
-    style="border-radius: 15px;"/>
-</p>
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div>
-    <ul style="list-style: none; padding: 0;">
-      <li>🖥 <strong>Fullstack {MERN, Nextjs, Python} Developer</strong> | 🌐 <strong>Contributed in a product based startup</strong></li>
-      <li>🚀 Currently working at a<strong> Fintech Startup as Fullstack Developer</strong></li>
-      <li>📚 Learning about <strong>Python - Backend</strong> and working on <strong>industry projects</strong> 🚀</li>
-      <li>📫 Reach out to me at: <strong>rohansingh.rs608@gmail.com</strong></li>
-      </li>
-    </ul>
-  </div>
-</div>
-
-
 ---
 <h3 align="center">Connect with me</h3>
 <p align="center" style="margin: 10px 0;">
-  <a href="https://x.com/irohandev" target="blank">
+  <a href="https://x.com/Rajat_0409" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/rohan-dev-singh-048511210" target="blank">
+  <a href="https://www.linkedin.com/in/rajat-saraswat-0491a3259/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/irohandev" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/rohansingh_rs608" target="blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"/>
-  </a>
-  <a href="https://discordapp.com/users/irohandev_"  target="blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
@@ -57,10 +26,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohandev&theme=radical" alt="GitHub Streak" width="450"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=StealthSilver&theme=radical" alt="GitHub Streak" width="450"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=irohandev&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=StealthSilver&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
     </td>
   </tr>
 </table>

@@ -21,16 +21,6 @@
   </a>
 </p>
 
----
 
-<h3 align="center">GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=StealthSilver&theme=radical" alt="GitHub Streak" width="450"/>
-    </td>
-  </tr>
-</table>
 
 

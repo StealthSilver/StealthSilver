@@ -20,14 +20,6 @@
 
 ---
 
-<h3 align="center">💻 Languages, Technologies & Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,angular,nestjs,nodejs,express,nextjs,prisma,postgres,mongodb,mysql,firebase,figma,mui,linux,docker,kubernetes,notion,vscode,vite,git,github,vercel,netlify,postman,python,threejs,redis,aws,bitbucket" />
-  </a>
-</p>
-
----
 <p align="center">
   <b>✨ Thanks for visiting my profile ✨</b><br>
   <i>Let’s connect and create something awesome together!</i>

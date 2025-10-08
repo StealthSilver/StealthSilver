@@ -21,21 +21,22 @@
 ---
 <h3 align="center">📈 GitHub Analytics</h3>
 
-<p align="center">
-  <a href="https://github.com/silver-srs">
-    <img src="https://github-readme-stats.vercel.app/api?username=silver-srs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Silver's GitHub stats" height="165" />
-  </a>
-  <a href="https://github.com/silver-srs">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=silver-srs&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/silver-srs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver-srs&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
-  </a>
-</p>
+<a href="https://github.com/silver-srs">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silver-srs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Silver's GitHub stats">
+</a>
+<a href="https://github.com/silver-srs">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=silver-srs&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak">
+</a>
 
+<br>
+
+<a href="https://github.com/silver-srs">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver-srs&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages">
+</a>
+
+</div>
 ---
 
 <p align="center">

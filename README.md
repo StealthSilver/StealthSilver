@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Silver </h1>
 
----
-
 <h3 align="center">Connect with me</h3>
 <p align="center" style="margin: 10px 0;">
   <a href="https://x.com/silver_srs" target="_blank">

@@ -28,31 +28,6 @@
 </p>
 
 ---
-
-<h3 align="center">⚡ A Little About Me</h3>
-
-<p align="center">
-  🚀 Passionate about building modern, scalable web applications.<br>
-  🧠 Always learning new technologies and exploring creative solutions.<br>
-  🎯 Focused on clean code, performance, and great user experience.
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silver-srs&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silver-srs&theme=tokyonight" alt="GitHub Streak" width="48%">
-</p>
-
----
-
-<h3 align="center">🎨 Fun Extras</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silver-srs&theme=react-dark" width="95%" alt="Activity Graph">
-</p>
-
----
 <p align="center">
   <b>✨ Thanks for visiting my profile ✨</b><br>
   <i>Let’s connect and create something awesome together!</i>
